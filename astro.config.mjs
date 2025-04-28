@@ -5,5 +5,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: "https://ibrokethecode.github.io",
-  base: "dev-portfolio",
+  base: import.meta.env.PROD ? "dev-portfolio" : "/",
 });
