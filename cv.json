@@ -145,59 +145,19 @@
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": ["Design", "UI"]
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Backend"]
     },
     {
-      "name": "Gitlab",
+      "name": "Django",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Backend"]
     },
     {
-      "name": "HTML",
+      "name": "FastAPI",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      "keywords": ["Backend"]
     },
     {
       "name": "Git",
@@ -210,42 +170,46 @@
       "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Databases"]
     },
     {
-      "name": "React",
+      "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Containers"]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": ["Linux"]
+    },
+    {
+      "name": "VSCode",
+      "level": "Intermediate",
+      "keywords": ["Code Editor"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Intermediate"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
       "name": "Technology",
-      "keywords": ["AI", "Blockchain"]
+      "keywords": ["AI", "Automation"]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "John Doe",
+      "reference": "https://johndoe.dev"
     }
   ],
   "projects": [
@@ -258,38 +222,18 @@
         "Includes a blog and contact form"
       ],
       "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "github": "https://github.com/iBrokeTheCode/dev-portfolio"
     },
     {
-      "name": "Weather App",
+      "name": "Restaurant System",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A web application that allow the management of the restaurant.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "Built with Django, DRF and Bootstrap",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://google.com",
+      "github": "https://github.com/iBrokeTheCode/restaurant-system"
     }
   ]
 }
