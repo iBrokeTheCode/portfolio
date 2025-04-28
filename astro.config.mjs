@@ -4,5 +4,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: "https://github.com/iBrokeTheCode/dev-portfolio",
+  site: "https://ibrokethecode.github.io",
+  base: "dev-portfolio",
 });
