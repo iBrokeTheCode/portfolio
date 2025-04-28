@@ -30,57 +30,65 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": ["Improved website performance by optimizing code"],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": ["React", "Tailwind", "GitHub"]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Redes Ópticas",
+      "position": "Implementation Technician",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "location": "Arequipa, Peru",
+      "url": "",
+      "startDate": "2022-07-14",
+      "endDate": "2024-12-31",
+      "summary": "Configuring and activating internet services",
+      "highlights": ["Developed automation tools for daily tasks"],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Configured and activated internet services, ensuring seamless connectivity for new customers.",
+        "Provided on-site technical support to clients, diagnosing and resolving internet service issues efficiently.",
+        "Collaborated with Network Operations Center (NOC) and Security Operations Center (SOC) teams to troubleshoot and resolve complex technical challenges.",
+        "Demonstrated strong problem-solving and technical diagnostic skills in a customer-facing environment.",
+        "Gained experience in network infrastructure and service delivery processes."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Developed automation tools for networking configurations tasks (using Python, Playwright, PyQT, Streamlit)"
       ],
-      "skills": ["Python", "Django", "SQL", "Git"]
+      "skills": ["Python", "Linux", "Git"]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "Gerencia Regional de Educación Arequipa - GREA",
+      "position": "Network Administrator",
+      "location_type": "On-site",
+      "location": "Arequipa, Peru",
+      "url": "",
+      "startDate": "2018-06-30",
+      "endDate": "2017-07-01",
+      "summary": "Managing network infrastructure, servers and Help Desk",
+      "highlights": ["Implementing a Proxmox node for virtual server machines"],
+      "responsibilities": [
+        "Managed and maintained local area network (LAN) infrastructure, ensuring stable and efficient network operations.",
+        "Administered Windows and/or Linux servers (specify if possible), including user management and system updates.",
+        "Provided technical support (Help-desk) to end-users, resolving hardware and software issues.",
+        "Performed routine computer maintenance and troubleshooting to ensure optimal system performance."
+      ],
+      "achievements": [
+        "Developed foundational skills in network management, server administration, and IT support."
+      ],
+      "skills": ["Linux"]
+    },
+    {
+      "name": "Cesmatronic EIRL",
+      "position": "Computer Support Intern",
+      "location_type": "On-site",
+      "location": "Arequipa, Peru",
+      "startDate": "2017-02-01",
+      "endDate": "2017-06-30",
+      "responsibilities": [
+        "Assembled computer hardware components according to specifications.",
+        "Installed and configured various operating systems (e.g., Windows, Linux) and software applications.",
+        "Developed basic troubleshooting skills in identifying and resolving hardware and software issues."
+      ],
+      "achievements": [
+        "Gained practical experience in computer hardware and software management."
+      ],
       "highlights": ["Completed several client projects successfully"],
-      "skills": ["HTML", "CSS"]
+      "skills": ["Linux"]
     }
   ],
   "volunteer": [
