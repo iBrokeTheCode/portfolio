@@ -5,8 +5,8 @@
 - [**Astro**](https://astro.build/) - The next-gen web framework.
 - [**Typescript**](https://www.typescriptlang.org/) - JavaScript with type syntax.
 - [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure JavaScript.
-- [**svgl**](https://svgl.app/?search=gpt) - A beautiful library with SVG logos
-- [**CV JSON schema from jsonresume.org**](https://jsonresume.org/schema/)
+- [**svgl**](https://svgl.app/?search=gpt) - A beautiful library with SVG logos.
+- [**CV JSON schema from jsonresume.org**](https://jsonresume.org/schema/) - Create JSON-based standard for resumes.
 
 ## 🚀 Credits
 
