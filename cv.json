@@ -210,24 +210,18 @@
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
+      "highlights": ["Built with Astro and Tailwind CSS"],
+      "url": "https://github.com/iBrokeTheCode/dev-portfolio",
       "github": "https://github.com/iBrokeTheCode/dev-portfolio"
     },
     {
       "name": "Restaurant System",
       "isActive": true,
       "description": "A web application that allow the management of the restaurant.",
-      "highlights": [
-        "Built with Django, DRF and Bootstrap",
-        "Responsive design"
-      ],
-      "url": "https://google.com",
+      "highlights": ["Built with Django and Bootstrap", "Responsive design"],
+      "url": "https://github.com/iBrokeTheCode/restaurant-system",
       "github": "https://github.com/iBrokeTheCode/restaurant-system"
     }
   ]
