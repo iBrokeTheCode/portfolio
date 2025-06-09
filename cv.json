@@ -19,7 +19,7 @@
       {
         "network": "LinkedIn",
         "username": "ibrokethecode",
-        "url": "https://www.linkedin.com/in/ibrokethecode/"
+        "url": "www.linkedin.com/in/alex-turpo"
       },
       {
         "network": "GitHub",
@@ -43,8 +43,7 @@
         "Configured and activated internet services, ensuring seamless connectivity for new customers.",
         "Provided on-site technical support to clients, diagnosing and resolving internet service issues efficiently.",
         "Collaborated with Network Operations Center (NOC) and Security Operations Center (SOC) teams to troubleshoot and resolve complex technical challenges.",
-        "Demonstrated strong problem-solving and technical diagnostic skills in a customer-facing environment.",
-        "Gained experience in network infrastructure and service delivery processes."
+        "Demonstrated strong problem-solving and technical diagnostic skills in a customer-facing environment."
       ],
       "achievements": [
         "Developed automation tools for networking configurations tasks (using Python, Playwright, PyQT, Streamlit)"
@@ -52,7 +51,7 @@
       "skills": ["Python", "Linux", "Git"]
     },
     {
-      "name": "Gerencia Regional de Educación Arequipa - GREA",
+      "name": "GREA",
       "position": "Network Administrator",
       "location_type": "On-site",
       "location": "Arequipa, Peru",
@@ -64,8 +63,7 @@
       "responsibilities": [
         "Managed and maintained local area network (LAN) infrastructure, ensuring stable and efficient network operations.",
         "Administered Windows and/or Linux servers (specify if possible), including user management and system updates.",
-        "Provided technical support (Help-desk) to end-users, resolving hardware and software issues.",
-        "Performed routine computer maintenance and troubleshooting to ensure optimal system performance."
+        "Provided technical support (Help-desk) to end-users, resolving hardware and software issues."
       ],
       "achievements": [
         "Developed foundational skills in network management, server administration, and IT support."
@@ -81,8 +79,7 @@
       "endDate": "2017-06-30",
       "responsibilities": [
         "Assembled computer hardware components according to specifications.",
-        "Installed and configured various operating systems (e.g., Windows, Linux) and software applications.",
-        "Developed basic troubleshooting skills in identifying and resolving hardware and software issues."
+        "Installed and configured various operating systems (e.g., Windows, Linux) and software applications."
       ],
       "achievements": [
         "Gained practical experience in computer hardware and software management."
