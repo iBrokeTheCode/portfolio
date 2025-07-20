@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Alex Turpo Coila",
-    "label": "Backend Developer",
+    "label": "ML Engineer  | AI Software Developer",
     "image": "https://avatars.githubusercontent.com/u/203718762?v=4",
     "email": "alexrtc.dev@gmail.com",
     "phone": "",
-    "url": "https://johndoe.dev",
-    "summary": "Inspired by the possibilities within the Python ecosystem and the exciting advancements in AI and automation. I'm actively seeking opportunities to grow my skills and work on impactful projects.",
+    "url": "https://ibrokethecode.github.io/portfolio/",
+    "summary": "As a Machine Learning Practitioner, I leverage a Bachelor's in Systems Engineering and 4+ years of experience across IT, telecom, and e-commerce AI projects. My expertise includes developing and deploying CNN-based image classification models, optimizing supervised learning solutions (achieving ROC AUC > 0.72), and automating operations. I specialize in Python, AWS, Docker, and Git, fluent in Spanish and professionally proficient in English. I'm actively seeking Machine Learning, MLOps, or AI engineering roles to apply data-driven solutions.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -30,25 +30,57 @@
   },
   "work": [
     {
+      "name": "Anyone AI",
+      "position": "Machine Learning Practitioner (Part-Time)",
+      "location_type": "Remote",
+      "location": "Arequipa, Peru",
+      "url": "https://www.anyoneai.com/",
+      "startDate": "2025-06-01",
+      "endDate": "2025-10-31",
+      "summary": "Developing and deploying end-to-end Machine Learning solutions, from data pipelines to model serving.",
+      "highlights": [],
+      "responsibilities": [
+        "Developed and deployed an image classification model using CNNs to predict vehicle make and model from unstructured images.",
+        "Built and optimized supervised learning models (DecisionTree, XGBoost, LightGBM) for home credit risk analysis, processing 350,000+ transactions.",
+        "Engineered a sentiment analysis pipeline for a movie streaming platform by preprocessing and vectorizing user reviews.",
+        "Constructed an end-to-end data pipeline (ELT) for revenue and delivery analysis on a major Latam e-commerce site."
+      ],
+      "achievements": [
+        "Successfully developed and deployed an 82%-accurate CNN-based image classification model and optimized credit risk models to achieve ROC AUC > 0.72."
+      ],
+      "skills": [
+        "Python",
+        "Scikit-learn",
+        "Airflow",
+        "Docker",
+        "AWS",
+        "PostgreSQL",
+        "FastAPI",
+        "Streamlit",
+        "Git",
+        "TensorFlow",
+        "MLflow"
+      ]
+    },
+    {
       "name": "Redes Ópticas",
-      "position": "Implementation Technician",
+      "position": "Network Technician",
       "location_type": "Hybrid",
       "location": "Arequipa, Peru",
       "url": "",
-      "startDate": "2022-07-14",
+      "startDate": "2022-07-01",
       "endDate": "2024-12-31",
-      "summary": "Configuring and activating internet services",
-      "highlights": ["Developed automation tools for daily tasks"],
+      "summary": "Automating network tasks and ensuring network stability and connectivity.",
+      "highlights": [],
       "responsibilities": [
-        "Configured and activated internet services, ensuring seamless connectivity for new customers.",
-        "Provided on-site technical support to clients, diagnosing and resolving internet service issues efficiently.",
-        "Collaborated with Network Operations Center (NOC) and Security Operations Center (SOC) teams to troubleshoot and resolve complex technical challenges.",
-        "Demonstrated strong problem-solving and technical diagnostic skills in a customer-facing environment."
+        "Developed automation tools using Python to streamline repetitive network configuration tasks.",
+        "Collaborated with NOC and SOC teams to diagnose and resolve technical incidents.",
+        "Provided on-site technical support, troubleshooting and resolving connectivity issues for internet services."
       ],
       "achievements": [
-        "Developed automation tools for networking configurations tasks (using Python, Playwright, PyQT, Streamlit)"
+        "Reduced manual workload by approximately 40% through Python-based automation, enhancing operational efficiency."
       ],
-      "skills": ["Python", "Linux", "Git"]
+      "skills": ["Python", "Streamlit", "Linux", "Git", "SQLite"]
     },
     {
       "name": "GREA",
@@ -56,36 +88,38 @@
       "location_type": "On-site",
       "location": "Arequipa, Peru",
       "url": "",
-      "startDate": "2018-06-30",
-      "endDate": "2017-07-01",
-      "summary": "Managing network infrastructure, servers and Help Desk",
-      "highlights": ["Implementing a Proxmox node for virtual server machines"],
+      "startDate": "2017-07-01",
+      "endDate": "2018-06-30",
+      "summary": "Managing network infrastructure, servers, and virtualized environments.",
+      "highlights": [],
       "responsibilities": [
-        "Managed and maintained local area network (LAN) infrastructure, ensuring stable and efficient network operations.",
-        "Administered Windows and/or Linux servers (specify if possible), including user management and system updates.",
-        "Provided technical support (Help-desk) to end-users, resolving hardware and software issues."
+        "Implemented a virtualization solution with Proxmox VE, migrating legacy on-premise servers to virtual machines.",
+        "Managed and maintained LAN infrastructure and network devices.",
+        "Administered Windows and Linux servers, including user account management and system updates."
       ],
       "achievements": [
-        "Developed foundational skills in network management, server administration, and IT support."
+        "Enhanced system management and eliminated hardware dependencies by implementing a virtualization solution."
       ],
-      "skills": ["Linux"]
+      "skills": ["Linux", "Proxmox VE", "Windows Server"]
     },
     {
       "name": "Cesmatronic EIRL",
-      "position": "Computer Support Intern",
+      "position": "Computer Technician",
       "location_type": "On-site",
       "location": "Arequipa, Peru",
       "startDate": "2017-02-01",
       "endDate": "2017-06-30",
+      "summary": "Configuring and preparing computer systems for end-users.",
+      "highlights": [],
       "responsibilities": [
-        "Assembled computer hardware components according to specifications.",
-        "Installed and configured various operating systems (e.g., Windows, Linux) and software applications."
+        "Installed operating systems and essential software applications.",
+        "Configured and prepared workstations for end-users.",
+        "Assembled computer hardware components according to specifications."
       ],
       "achievements": [
-        "Gained practical experience in computer hardware and software management."
+        "Ensured reliable and fully functional workstations, gaining practical experience in hardware and software management."
       ],
-      "highlights": ["Completed several client projects successfully"],
-      "skills": ["Linux"]
+      "skills": ["Windows", "Linux"]
     }
   ],
   "volunteer": [
