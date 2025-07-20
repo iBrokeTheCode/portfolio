@@ -207,47 +207,156 @@
     {
       "name": "Python",
       "level": "Intermediate",
-      "keywords": ["Backend"]
+      "keywords": [
+        "Programming",
+        "Machine Learning",
+        "AI",
+        "Data Science",
+        "Backend"
+      ]
     },
     {
-      "name": "Django",
+      "name": "TensorFlow",
       "level": "Intermediate",
-      "keywords": ["Backend"]
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "AI",
+        "Machine Learning",
+        "Keras"
+      ]
     },
     {
-      "name": "FastAPI",
+      "name": "Keras",
       "level": "Intermediate",
-      "keywords": ["Backend"]
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
     },
     {
-      "name": "Git",
+      "name": "ScikitLearn",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": [
+        "Machine Learning",
+        "ML Models",
+        "Data Science",
+        "Classification",
+        "Regression"
+      ]
     },
     {
-      "name": "GitHub",
+      "name": "Pandas",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": [
+        "Data Manipulation",
+        "Data Analysis",
+        "Python",
+        "Data Science"
+      ]
     },
     {
-      "name": "PostgreSQL",
+      "name": "Matplotlib",
       "level": "Intermediate",
-      "keywords": ["Databases"]
+      "keywords": ["Data Visualization", "Plotting", "Python", "Data Analysis"]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Platform",
+        "Cloud Computing",
+        "Machine Learning Deployment",
+        "AI Services"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Platform",
+        "Cloud Computing",
+        "Machine Learning Deployment",
+        "AI Services"
+      ]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["Containers"]
+      "keywords": ["Containers", "Containerization", "MLOps", "Deployment"]
+    },
+    {
+      "name": "Airflow",
+      "level": "Intermediate",
+      "keywords": ["MLOps", "Data Orchestration", "Workflow Management", "ETL"]
+    },
+    {
+      "name": "MLflow",
+      "level": "Intermediate",
+      "keywords": [
+        "MLOps",
+        "Model Management",
+        "Experiment Tracking",
+        "Machine Learning Lifecycle"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Source Code Management"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Database", "SQL", "Relational Database"]
+    },
+    {
+      "name": "SQLite",
+      "level": "Intermediate",
+      "keywords": ["Database", "SQL", "Embedded Database"]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Intermediate",
+      "keywords": ["Web Framework", "API Development", "Backend", "Python"]
+    },
+    {
+      "name": "Streamlit",
+      "level": "Intermediate",
+      "keywords": ["Web App", "Dashboarding", "Data Apps", "Python"]
+    },
+    {
+      "name": "Jupyter",
+      "level": "Intermediate",
+      "keywords": [
+        "Interactive Computing",
+        "Data Exploration",
+        "Notebooks",
+        "Python"
+      ]
+    },
+    {
+      "name": "Marimo",
+      "level": "Intermediate",
+      "keywords": ["Interactive Computing", "Python Notebooks"]
     },
     {
       "name": "Linux",
       "level": "Intermediate",
-      "keywords": ["Linux"]
+      "keywords": ["Operating System", "Command Line"]
     },
     {
       "name": "VSCode",
       "level": "Intermediate",
-      "keywords": ["Code Editor"]
+      "keywords": ["Code Editor", "IDE"]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermediate",
+      "keywords": ["API Testing", "API Development"]
     }
   ],
   "languages": [
