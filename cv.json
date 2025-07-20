@@ -135,6 +135,16 @@
   ],
   "education": [
     {
+      "institution": "Anyone AI",
+      "url": "https://www.anyoneai.com/",
+      "area": "Machine Learning Specialization",
+      "studyType": "Specialization",
+      "startDate": "2025-06-01",
+      "endDate": "2025-10-31",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Universidad Nacional de San Agustín",
       "url": "https://www.unsa.edu.pe",
       "area": "Systems Engineering",
@@ -163,10 +173,34 @@
   ],
   "certificates": [
     {
-      "name": "English as a Foreign Language",
-      "date": "2024-09-23",
-      "issuer": "Centro de Idiomas de la UNSA",
-      "url": "http://www.idiomas.unsa.edu.pe"
+      "name": "Astronomer Certification for Apache Airflow 3 Fundamentals",
+      "date": "2025-06-30",
+      "issuer": "Astronomer",
+      "url": "https://www.credly.com/badges/9f91203f-7d92-4071-a37f-81796611ae4c/public_url"
+    },
+    {
+      "name": "Fundamentals of MCP",
+      "date": "2025-06-30",
+      "issuer": "Hugging Face",
+      "url": "https://huggingface.co/iBrokeTheCode"
+    },
+    {
+      "name": "SQL (Basic)",
+      "date": "2025-06-30",
+      "issuer": "HackerRank",
+      "url": "https://www.hackerrank.com/certificates/933e5d9babdd"
+    },
+    {
+      "name": "Intermediate Machine Learning",
+      "date": "2025-07-31",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/ibrokethecode"
+    },
+    {
+      "name": "Test of English as a Foreign Language",
+      "date": "2024-09-30",
+      "issuer": "Centro de Idiomas UNSA",
+      "url": ""
     }
   ],
   "skills": [
