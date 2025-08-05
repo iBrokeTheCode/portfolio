@@ -383,18 +383,26 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "E-Commerce ELT",
       "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": ["Built with Astro and Tailwind CSS"],
-      "url": "https://github.com/iBrokeTheCode/dev-portfolio",
-      "github": "https://github.com/iBrokeTheCode/dev-portfolio"
+      "description": "Extract, Load, Transform Pipeline applied to an E-Commerce.",
+      "highlights": [
+        "Built an end-to-end ELT pipeline for e-commerce data analysis",
+        "Developed an interactive dashboard with Marimo",
+        "Deployed the application for public access on Hugging Face Spaces"
+      ],
+      "url": "https://huggingface.co/spaces/iBrokeTheCode/E-Commerce_ELT",
+      "github": "https://github.com/iBrokeTheCode/E-Commerce_ELT"
     },
     {
       "name": "Restaurant System",
       "isActive": true,
       "description": "A web application that allow the management of the restaurant.",
-      "highlights": ["Built with Django and Bootstrap", "Responsive design"],
+      "highlights": [
+        "Developed a full-featured management system using the Django framework",
+        "Implemented user authentication and role-based access control for staff",
+        "Automated sales tracking, reporting, and inventory management for business insights"
+      ],
       "url": "https://github.com/iBrokeTheCode/restaurant-system",
       "github": "https://github.com/iBrokeTheCode/restaurant-system"
     }
