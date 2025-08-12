@@ -383,6 +383,18 @@
   ],
   "projects": [
     {
+      "name": "Home Credit Default Risk Prediction",
+      "isActive": true,
+      "description": "ML Classification models applied to Home Credit Risk dataset.",
+      "highlights": [
+        "Built a complete ML pipeline for binary classification, from preprocessing to deployment.",
+        "Trained and evaluated multiple models, selecting LightGBM for its superior ROC AUC of 0.751.",
+        "Developed and deployed an interactive predictor app with Marimo on Hugging Face Spaces."
+      ],
+      "url": "https://huggingface.co/spaces/iBrokeTheCode/Home_Credit_Default_Risk_Prediction",
+      "github": "https://github.com/iBrokeTheCode/Home_Credit_Default_Risk_Prediction"
+    },
+    {
       "name": "E-Commerce ELT",
       "isActive": true,
       "description": "Extract, Load, Transform Pipeline applied to an E-Commerce.",
