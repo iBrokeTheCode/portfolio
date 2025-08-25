@@ -173,16 +173,28 @@
   ],
   "certificates": [
     {
+      "name": "Computer Vision",
+      "date": "2025-08-16",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/ibrokethecode/computer-vision"
+    },
+    {
+      "name": "AI Agents Fundamentals",
+      "date": "2025-08-15",
+      "issuer": "Hugging Face",
+      "url": "https://media.licdn.com/dms/image/v2/D4E2DAQHtteq7Vu8i3Q/profile-treasury-image-shrink_800_800/B4EZiWrbd1HoAY-/0/1754874624475?e=1756738800&v=beta&t=xbC7bTP1E2e2GZFKNfxm1KyyvXU0zzrIEENMgHtNm2w"
+    },
+    {
+      "name": "Intermediate Machine Learning",
+      "date": "2025-07-16",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/ibrokethecode/intermediate-machine-learning"
+    },
+    {
       "name": "Astronomer Certification for Apache Airflow 3 Fundamentals",
       "date": "2025-06-30",
       "issuer": "Astronomer",
       "url": "https://www.credly.com/badges/9f91203f-7d92-4071-a37f-81796611ae4c/public_url"
-    },
-    {
-      "name": "Fundamentals of MCP",
-      "date": "2025-06-30",
-      "issuer": "Hugging Face",
-      "url": "https://huggingface.co/iBrokeTheCode"
     },
     {
       "name": "SQL (Basic)",
@@ -191,10 +203,10 @@
       "url": "https://www.hackerrank.com/certificates/933e5d9babdd"
     },
     {
-      "name": "Intermediate Machine Learning",
-      "date": "2025-07-31",
-      "issuer": "Kaggle",
-      "url": "https://www.kaggle.com/ibrokethecode"
+      "name": "Fundamentals of MCP",
+      "date": "2025-06-03",
+      "issuer": "Hugging Face",
+      "url": "https://media.licdn.com/dms/image/v2/D4E2DAQGrl0ZVBiI4CA/profile-treasury-image-shrink_800_800/B4EZc1ywFnH8Ac-/0/1748954186752?e=1756738800&v=beta&t=ChY0Fv-PXgeaqU3cbuC6MHYLVkUT6sKdbmfCeWhnZIM"
     },
     {
       "name": "Test of English as a Foreign Language",
