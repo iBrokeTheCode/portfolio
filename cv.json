@@ -64,7 +64,7 @@
     },
     {
       "name": "Redes Ópticas",
-      "position": "Network Technician",
+      "position": "Back-end Developer",
       "location_type": "Hybrid",
       "location": "Arequipa, Peru",
       "url": "",
@@ -84,7 +84,7 @@
     },
     {
       "name": "GREA",
-      "position": "Network Administrator",
+      "position": "Back-end Developer",
       "location_type": "On-site",
       "location": "Arequipa, Peru",
       "url": "",
@@ -382,6 +382,18 @@
     }
   ],
   "projects": [
+    {
+      "name": "Image Classifier with CNN",
+      "isActive": true,
+      "description": "A CNN-based image classification with TensorFlow.",
+      "highlights": [
+        "Implemented a full end-to-end MLOps pipeline using a ResNet50 CNN.",
+        "Designed and ran a multi-service architecture using FastAPI, Redis, and Docker.",
+        "Developed and deployed an interactive image predictor with Streamlit on Hugging Face Spaces."
+      ],
+      "url": "https://huggingface.co/spaces/iBrokeTheCode/Image_Classifier_with_CNN",
+      "github": "https://github.com/iBrokeTheCode/Image_Classifier_with_CNN"
+    },
     {
       "name": "Home Credit Default Risk Prediction",
       "isActive": true,
